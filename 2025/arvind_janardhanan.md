@@ -10,7 +10,7 @@ layout: col-generic
 ![Image](#)
 <br>
 <br>
-I am me.  Welcome to my page.
+I am a seasoned cybersecurity leader with 15+ years of experience in application security engineering at Fortune 500 companies. Currently serving as Principal Information Security Engineer at Nike, I have built and scaled enterprise security programs covering SAST, DAST, SCA, Secrets Management, MAST, IAC and AI-driven security automation. My passion lies in democratizing security knowledge and building inclusive communities that advance application security globally.
 <br>
 
 #### Link to My Video
@@ -21,7 +21,8 @@ I am me.  Welcome to my page.
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 <br>
 <br>
-Answer
+While my primary contributions have been within enterprise environments rather than traditional open source projects, I bring a unique perspective that OWASP critically needs: scaling security practices across large, complex organizations with real-world constraints and business pressures.
+
 <br>
 <br>
 
