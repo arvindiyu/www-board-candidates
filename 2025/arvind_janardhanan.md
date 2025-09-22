@@ -37,7 +37,7 @@ While my primary contributions have been within enterprise environments rather t
 <br>
 In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership that i would target would be,
 
-## Outcome 1: Complete Project Portfolio Health Assessment & Public Transparency Dashboard
+##### Outcome 1: Complete Project Portfolio Health Assessment & Public Transparency Dashboard
 **Deliverable:** Launch a comprehensive, automated health assessment system covering all 398 OWASP projects across 16 security domains with real-time public visibility [Additional details outlined in Question no 3].
 **Specific Actions:**
 - Deploy metrics tracking based on GitHub activity, issue response times, maintainer engagement, and technical debt indicators
@@ -47,7 +47,7 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 
 ---
 
-## Outcome 2: Direct Leadership Engagement & Accountability Framework
+##### Outcome 2: Direct Leadership Engagement & Accountability Framework
 **Deliverable:** Establish direct communication with 150+ project leaders across all 16 security domains with documented response rates and succession planning.
 **Specific Actions:**
 - Personal outreach to every project leader with standardized health assessment questionnaire (14-day response deadline)
@@ -57,7 +57,7 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 
 ---
 
-## Outcome 3: Strategic Domain Focus Groups & Innovation Pipeline Launch
+##### Outcome 3: Strategic Domain Focus Groups & Innovation Pipeline Launch
 **Deliverable:** Establish active focus groups for all 16 security domains with identified community leaders and launch innovation charter process for emerging security needs.
 **Specific Actions:**
 - Recruit and confirm domain champions for Web App Security, AI/ML Security, Supply Chain Security, and 13 other domains
@@ -66,7 +66,7 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 **Verification Method:** Public calendar showing all 16 domain monthly meetings, published meeting minutes with attendance tracking, and community voting platform for innovation project prioritization. Domain leaders will be publicly listed with contact information and success metrics.
 
 ---
-## Measurement & Accountability
+##### Measurement & Accountability
 **Progress Tracking:**
 - **Weekly Updates:** Published every Friday on OWASP blog with specific metrics
 - **Community Verification:** All data sources, methodologies, and progress reports available on GitHub
@@ -121,22 +121,22 @@ My approach centers on **Strategic Reality and Board Alignment** through **Data-
 
 This requires executive-level intervention with community-driven solutions. My proposal involves a **three-phase, 12-month plan** to drive toward a healthier, stronger, and more focused global project portfolio.
 
-## Phase 1: Immediate Triage & Accountability **Timeline: First 3 months**
-#### Automated Health Assessment
+##### Phase 1: Immediate Triage & Accountability **Timeline: First 3 months**
+###### Automated Health Assessment
 - Deploy enterprise-grade metrics across all 398 projects: GitHub activity, issue responsiveness, technical debt indicators
 - Domain-specific evaluation using our 16-category framework to assess strategic value vs. maintenance burden
 - Public transparency dashboard showing real-time project health across all domains—complete accountability, no hiding
-#### Direct Leadership Engagement
+###### Direct Leadership Engagement
 - Personal outreach to 150+ project leaders across all 16 domains with clear response requirements (14-day deadline)
 - Escalation protocol: Email → Slack → LinkedIn → Community nomination for replacement
 - Document everything: Response rates, engagement quality, succession planning needs by domain
-#### Strategic Value Classification
+###### Strategic Value Classification
 - Apply BCG matrix analysis to categorize projects within each domain: Stars (high value, active), Cash Cows (stable value), Question Marks (potential), Dogs (retirement candidates)
 - Domain expert panel input from recognized leaders in each of the 16 security areas
 - Transparent criteria publication for all triage decisions with domain-specific considerations
 
-## Phase 2: Domain-Focused Transformation **Timeline: Months 4-6**
-#### Priority Domain Investment Strategy
+##### Phase 2: Domain-Focused Transformation **Timeline: Months 4-6**
+###### Priority Domain Investment Strategy
 **Tier 1 Critical Domains (Immediate Focus):**
 - **Supply Chain & Dependency Security:** Emergency health investment for CycloneDX ecosystem (something everyone uses and needs attention)
 - **Web Application Security:** Aggressive consolidation while protecting Top Ten, ASVS legacy
@@ -151,7 +151,7 @@ This requires executive-level intervention with community-driven solutions. My p
 - **Cloud-Native, Mobile, API Security:** Modernization for current tech stacks
 - **IoT, Privacy, Network Security:** Emerging threat response and compliance alignment
 
-#### Systematic Project Actions Across All Domains
+###### Systematic Project Actions Across All Domains
 **Immediate Retirement (target: 20% projects across domains):**
 - **Integration & Standards:** Legacy integration approaches
 - **Code Security & Static Analysis:** Outdated security libraries
@@ -186,9 +186,9 @@ This requires executive-level intervention with community-driven solutions. My p
 - Enterprise advisory boards ensuring commercial relevance across the complete security landscape
 - Key focus on building strategic partnerships with OSPOs of top enterprises
 
-## Success Metrics & Community Accountability
+##### Success Metrics & Community Accountability
 Each phase will be measured against **OKR/SMART style goals:**
-### With set Targets like:
+###### With set Targets like:
 - **Stale project rate:** 49.5% → 25% through strategic retirement and health investment across domains
 - **Domain leadership:** 100% of 16 domains have active focus groups and identified community leaders
 - **Leadership responsiveness:** 90% response rate to community communications across all project areas
@@ -205,7 +205,7 @@ While OWASP is open source and should always remain so, my leadership philosophy
 - **Strategic focus** on domains that create maximum value while preserving OWASP's comprehensive coverage
 - **Inclusive innovation** where the best ideas win through democratic processes in each security area
 
-## My Vision 
+##### My Vision 
 **Transform OWASP from a collection of 398 fragmented projects into 16 world-class security domains** that define industry standards, drive innovation, and serve millions of developers and enterprises worldwide.
 
 My focus will be to navigate OWASP toward a healthier, more focused project portfolio spanning the complete security landscape. Within one year, we'll have a strategically relevant open-source security ecosystem with global impact. The community deserves nothing less than excellence in execution and accountability in leadership across every security domain. That's exactly what I will plan to deliver.
