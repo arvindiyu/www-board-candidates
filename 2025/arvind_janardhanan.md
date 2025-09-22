@@ -43,15 +43,18 @@ Every decision will be data-driven, community-informed, and transparently report
 - **Web Application Security** - Foundation domain with Top Ten, ASVS, Cheat Sheets
 - **AI/ML & GenAI Security** - Fastest growing with GenAI Security, LLM Top 10
 - **Supply Chain & Dependency Security** - Highest ROI with CycloneDX, Dependency-Check
+  
 **Growth Domains:**
 - **Cloud-Native & Container Security** - Kubernetes, Docker, Serverless security
 - **DevSecOps & CI/CD Security** - SAMM, pipeline security frameworks
 - **Mobile Security** - Mobile Application Security, Mobile Top 10
 - **API Security** - Growing domain with API Security Project
+  
 **Essential Operations:**
 - **Vulnerability Management & Testing** - DefectDojo, OWTF, testing tools
 - **Security Training & Education** - Juice Shop, WebGoat, training platforms
 - **Threat Modeling & Risk Assessment** - Threat Dragon, risk frameworks
+  
 **Specialized Domains:**
 - **Network Security & Intelligence** - Amass, reconnaissance tools
 - **Code Security & Static Analysis** - ESAPI, code review guidance
@@ -64,7 +67,7 @@ My approach centers on **Strategic Reality and Board Alignment** through **Data-
 
 This requires executive-level intervention with community-driven solutions. My proposal involves a **three-phase, 12-month plan** to drive toward a healthier, stronger, and more focused global project portfolio.
 
-### Phase 1: Immediate Triage & Accountability **Timeline: First 3 months**
+## Phase 1: Immediate Triage & Accountability **Timeline: First 3 months**
 #### Automated Health Assessment
 - Deploy enterprise-grade metrics across all 398 projects: GitHub activity, issue responsiveness, technical debt indicators
 - Domain-specific evaluation using our 16-category framework to assess strategic value vs. maintenance burden
@@ -78,16 +81,18 @@ This requires executive-level intervention with community-driven solutions. My p
 - Domain expert panel input from recognized leaders in each of the 16 security areas
 - Transparent criteria publication for all triage decisions with domain-specific considerations
 
-### Phase 2: Domain-Focused Transformation **Timeline: Months 4-6**
+## Phase 2: Domain-Focused Transformation **Timeline: Months 4-6**
 #### Priority Domain Investment Strategy
 **Tier 1 Critical Domains (Immediate Focus):**
 - **Supply Chain & Dependency Security:** Emergency health investment for CycloneDX ecosystem (something everyone uses and needs attention)
 - **Web Application Security:** Aggressive consolidation while protecting Top Ten, ASVS legacy
 - **AI/ML & GenAI Security:** Innovation acceleration as fastest-growing security domain
+  
 **Tier 2 High-Impact Domains (Secondary Focus):**
 - **DevSecOps & CI/CD Security:** Enterprise pipeline integration focus
 - **Vulnerability Management & Testing:** Tool consolidation opportunity
 - **Security Training & Education:** Community education mission preservation
+  
 **Tier 3 Specialized Domains (Targeted Intervention):**
 - **Cloud-Native, Mobile, API Security:** Modernization for current tech stacks
 - **IoT, Privacy, Network Security:** Emerging threat response and compliance alignment
@@ -112,7 +117,7 @@ This requires executive-level intervention with community-driven solutions. My p
 - Community voting platform for prioritizing investments across all 16 domains
 - Partner with GenAI code generation solutions like Cursor, Claude, GitHub Copilot to build custom instruction projects and OWASP policy guardrails
 
-### Phase 3: Sustainable Governance & Community Ownership **Timeline: Months 6-12 **
+## Phase 3: Sustainable Governance & Community Ownership **Timeline: Months 6-12 **
 #### Domain-Centric Leadership Model
 - Establish 16 Domain Focus Groups with recognized community experts leading each security area
 - Monthly domain community calls with cross-domain coordination for overlapping projects
