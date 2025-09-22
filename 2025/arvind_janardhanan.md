@@ -96,13 +96,15 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 <br>
 
 **Challenge 1**: Developer Engagement & Resource Constraints
-Developers struggle to effectively adopt OWASP resources due to poor integration with existing workflows, while OWASP's ~$2M annual budget severely limits program expansion and project support capabilities.
 
-Action Plan: Launch the "DevSec Integration Initiative" to embed OWASP guidance directly into popular development environments including GitHub, VSCode, Jenkins, and AI code generation solutions. This provides contextual security recommendations seamlessly within existing developer workflows. Simultaneously, establish a "Corporate Security Partnership Tier" featuring premium sponsorship levels ($50K-$250K) that offer co-branded security training, priority support, and exclusive research access, specifically targeting Fortune 500 companies with dedicated security teams.
+Developers adoption of OWASP resources due to poor integration with existing workflows (lack of treating security as a core skill/requirement), along with OWASP's ~$2M annual budget severely limits program expansion and project support capabilities.
+
+Action Plan: Launch the "DevSec Integration Initiative" to embed OWASP guidance directly into popular computer science, devEx and AI sepcific university and inplatfrom trainings . This provides contextual security fitment seamlessly within existing developer workflows. Simultaneously, establish "Corporate Security Partnership Tier" featuring premium sponsorship levels ($50K-$250K) that offer security training, corporate commitment to OWASP project contributions, developer OWASP certifications and research partnership, specifically targeting Fortune 500 companies with dedicated security teams and OSPOs.
 
 **Challenge 2**: AI-Generated Code Security Crisis
-Despite 97% developer adoption of generative AI, 45% of AI-generated code contains OWASP Top 10 vulnerabilities. This represents a paradigm shift from traditional "code-to-cloud" security to "prompt-to-cloud" security, requiring fundamentally different approaches to application security throughout the development lifecycle.
-Action Plan: Establish the "OWASP AI SecureCode Initiative" to create real-time security validation plugins and custom instructions for major platforms including GitHub Copilot, Cursor, Claude Code, and VSCode. These tools will provide instant vulnerability detection with OWASP-compliant remediation suggestions during AI-assisted code generation, addressing security at the point of creation.
+
+Despite 97% developer adoption of generative AI, a large % of AI-generated code contains OWASP Top 10 vulnerabilities. This represents a paradigm shift from traditional "code-to-cloud" security to "prompt-to-cloud" security, requiring fundamentally different approaches to application security throughout the development lifecycle.
+Action Plan: Establish/Evangalise/Prioratise the "OWASP AI SecureCode Initiative" to create real-time security validation plugins and custom instructions for major platforms including GitHub Copilot, Cursor, Claude Code, and VSCode. These tools will provide vulnerability reduction and potential improve detection with OWASP-compliant remediation suggestions during AI-assisted code generation, addressing security at the point of creation.
 
 **Challenge 3**: Quantum Transition & Next-Generation Security Education
 With RSA-2048 cryptography vulnerable by 2029, organizations lack comprehensive post-quantum migration guidance. Additionally, traditional security training frameworks are inadequate for AI-augmented development and future quantum-aware application architectures.
