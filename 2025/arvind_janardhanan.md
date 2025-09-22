@@ -94,6 +94,7 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
 <br>
 <br>
+
 **Challenge 1**: Developer Engagement & Resource Constraints
 Developers struggle to effectively adopt OWASP resources due to poor integration with existing workflows, while OWASP's ~$2M annual budget severely limits program expansion and project support capabilities.
 
