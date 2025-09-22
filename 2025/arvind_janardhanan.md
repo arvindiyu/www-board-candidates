@@ -94,7 +94,21 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 #### What do you see as the top three challenges for OWASP to increase impact and visibility worldwide? Please provide actionable plan which you can spearhead and lead if need be for the goals you plan to achieve
 <br>
 <br>
-Answer
+**Challenge 1**: Developer Engagement & Resource Constraints
+Developers struggle to effectively adopt OWASP resources due to poor integration with existing workflows, while OWASP's ~$2M annual budget severely limits program expansion and project support capabilities.
+
+Action Plan: Launch the "DevSec Integration Initiative" to embed OWASP guidance directly into popular development environments including GitHub, VSCode, Jenkins, and AI code generation solutions. This provides contextual security recommendations seamlessly within existing developer workflows. Simultaneously, establish a "Corporate Security Partnership Tier" featuring premium sponsorship levels ($50K-$250K) that offer co-branded security training, priority support, and exclusive research access, specifically targeting Fortune 500 companies with dedicated security teams.
+
+**Challenge 2**: AI-Generated Code Security Crisis
+Despite 97% developer adoption of generative AI, 45% of AI-generated code contains OWASP Top 10 vulnerabilities. This represents a paradigm shift from traditional "code-to-cloud" security to "prompt-to-cloud" security, requiring fundamentally different approaches to application security throughout the development lifecycle.
+Action Plan: Establish the "OWASP AI SecureCode Initiative" to create real-time security validation plugins and custom instructions for major platforms including GitHub Copilot, Cursor, Claude Code, and VSCode. These tools will provide instant vulnerability detection with OWASP-compliant remediation suggestions during AI-assisted code generation, addressing security at the point of creation.
+
+**Challenge 3**: Quantum Transition & Next-Generation Security Education
+With RSA-2048 cryptography vulnerable by 2029, organizations lack comprehensive post-quantum migration guidance. Additionally, traditional security training frameworks are inadequate for AI-augmented development and future quantum-aware application architectures.
+Action Plan: Deploy the "OWASP Quantum-Safe Transition Program" featuring comprehensive PQC migration playbooks, automated cryptographic inventory tools, and quantum-safe coding standards developed in partnership with NIST. Complement this with the "OWASP Next-Gen Security Certification" - a hybrid online and hands-on program covering AI prompt security, quantum-safe architecture design, and automated security validation methodologies, targeting 10,000 developers annually through strategic corporate partnerships.
+
+Leadership Commitment: I will personally spearhead these transformative initiatives, leveraging my enterprise security architecture expertise, with support of active OWASP community engagement, and industry network to deliver measurable impact, trageting positioning of OWASP as the authority for application security in the AI-quantum era.
+
 <br>
 <br>
 
