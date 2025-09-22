@@ -171,7 +171,7 @@ This requires executive-level intervention with community-driven solutions. My p
 - Community voting platform for prioritizing investments across all 16 domains
 - Partner with GenAI code generation solutions like Cursor, Claude, GitHub Copilot to build custom instruction projects and OWASP policy guardrails
 
-## Phase 3: Sustainable Governance & Community Ownership **Timeline: Months 6-12 **
+##### Phase 3: Sustainable Governance & Community Ownership **Timeline: Months 6-12 **
 #### Domain-Centric Leadership Model
 - Establish 16 Domain Focus Groups with recognized community experts leading each security area
 - Monthly domain community calls with cross-domain coordination for overlapping projects
