@@ -13,7 +13,7 @@ layout: col-generic
 Hi there, I’m Arvind Janardhanan—a seasoned cybersecurity leader with over 15 years of experience in enterprise security, specializing in secure software development, DevSecOps, and enterprise security architecture. Throughout my career, I’ve had the privilege of architecting security solutions at scale—solutions built with a security-first mindset that empower development teams to innovate confidently and securely.
 
 While I haven’t directly contributed to OWASP or open source projects, I’ve been a long-time and ardent consumer of OWASP’s resources. From threat modeling to the OWASP Top 10 to secure coding practices, OWASP has been foundational in shaping the security posture of the organizations I’ve served. I see this candidacy as an opportunity to give back—by bringing the voice of OWASP’s largest consumers, enterprise security teams, closer to the community that builds the tools and standards we rely on every day.
-My work has focused on designing and delivering scalable application security programs and integrating comprehensive security toolchains across SAST, SCA, MAST, IaC, DAST, secrets detection, API, and cloud security. I’ve led and contnue to lead initiatives in vulnerability management, posture management, and secure-by-default capability delivery—always with an eye toward enterprise adoption and real-world constraints.
+My work has focused on designing and delivering scalable application security programs and integrating comprehensive security toolchains across SAST, SCA, MAST, IaC, DAST, secrets detection, API, and cloud security. I’ve led and continue to lead initiatives in vulnerability management, posture management, and secure-by-default capability delivery—always with an eye toward enterprise adoption and real-world constraints.
 
 What drives me is the opportunity to bridge the gap between cutting-edge security research and practical, actionable guidance. I believe security standards must be both aspirational and achievable—empowering teams of all sizes, not just the well-resourced, to build secure software. That’s where I believe OWASP can lead, and where I hope to contribute.
 
@@ -86,10 +86,10 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 - **Community Verification:** All data sources, methodologies, and progress reports available on GitHub
 - **Success Metrics:** 
   - Project health dashboard operational with 100% project coverage
-  - Transperancy on % leadership response rate across all domains
+  - Transparency on % leadership response rate across all domains
   - 16 active domain focus groups with confirmed community leaders
 
-**Transparency Commitment:** Every outcome must includes public documentation, community feedback mechanisms, and measurable success criteria. Progress will be tracked through automated systems and community-verifiable data sources. In my openion, these three outcomes help establish the foundation for OWASP's strategic transformation while ensuring complete transparency and community accountability.
+**Transparency Commitment:** Every outcome must includes public documentation, community feedback mechanisms, and measurable success criteria. Progress will be tracked through automated systems and community-verifiable data sources. In my opinion, these three outcomes help establish the foundation for OWASP's strategic transformation while ensuring complete transparency and community accountability.
 <br>
 <br>
 
@@ -101,18 +101,18 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 
 Developers adoption of OWASP resources due to poor integration with existing workflows (lack of treating security as a core skill/requirement), along with OWASP's ~$2M annual budget severely limits program expansion and project support capabilities.
 
-Action Plan: Launch the "DevSec Integration Initiative" to embed OWASP guidance directly into popular computer science, devEx and AI sepcific university and inplatfrom trainings . This provides contextual security fitment seamlessly within existing developer workflows. Simultaneously, establish "Corporate Security Partnership Tier" featuring premium sponsorship levels ($50K-$250K) that offer security training, corporate commitment to OWASP project contributions, developer OWASP certifications and research partnership, specifically targeting Fortune 500 companies with dedicated security teams and OSPOs.
+Action Plan: Launch the "DevSec Integration Initiative" to embed OWASP guidance directly into popular computer science, devEx and AI sepcific university and in-platfrom trainings . This provides contextual security fitment seamlessly within existing developer workflows. Simultaneously, establish "Corporate Security Partnership Tier" featuring premium sponsorship levels ($50K-$250K) that offer security training, corporate commitment to OWASP project contributions, developer OWASP certifications and research partnership, specifically targeting Fortune 500 companies with dedicated security teams and OSPOs.
 
 **Challenge 2**: AI-Generated Code Security Crisis
 
 Despite 97% developer adoption of generative AI, a large % of AI-generated code contains OWASP Top 10 vulnerabilities. This represents a paradigm shift from traditional "code-to-cloud" security to "prompt-to-cloud" security, requiring fundamentally different approaches to application security throughout the development lifecycle.
-Action Plan: Establish/Evangalise/Prioratise the "OWASP AI SecureCode Initiative" to create real-time security validation plugins and custom instructions for major platforms including GitHub Copilot, Cursor, Claude Code, and VSCode. These tools will provide vulnerability reduction and potential improve detection with OWASP-compliant remediation suggestions during AI-assisted code generation, addressing security at the point of creation.
+Action Plan: Establish/Evangelize/Prioritize the "OWASP AI SecureCode Initiative" to create real-time security validation plugins and custom instructions for major platforms including GitHub Copilot, Cursor, Claude Code, and VSCode. These tools will provide vulnerability reduction and potential improve detection with OWASP-compliant remediation suggestions during AI-assisted code generation, addressing security at the point of creation.
 
 **Challenge 3**: Quantum Transition & Next-Generation Security Education
 With RSA-2048 cryptography vulnerable by 2029, organizations lack comprehensive post-quantum migration guidance. Additionally, traditional security training frameworks are inadequate for AI-augmented development and future quantum-aware application architectures.
 Action Plan: Deploy the "OWASP Quantum-Safe Transition Program" featuring comprehensive PQC migration playbooks, automated cryptographic inventory tools, and quantum-safe coding standards developed in partnership with NIST. Complement this with the "OWASP Next-Gen Security Certification" - a hybrid online and hands-on program covering AI prompt security, quantum-safe architecture design, and automated security validation methodologies, targeting 10,000 developers annually through strategic corporate partnerships.
 
-Leadership Commitment: I will personally spearhead these transformative initiatives, leveraging my enterprise security architecture expertise, with support of active OWASP community engagement, and industry network to deliver measurable impact, trageting positioning of OWASP as the authority for application security in the AI-quantum era.
+Leadership Commitment: I will personally spearhead these transformative initiatives, leveraging my enterprise security architecture expertise, with support of active OWASP community engagement, and industry network to deliver measurable impact, trageting the positioning of OWASP as the authority for application security in the AI-quantum era.
 
 <br>
 <br>
