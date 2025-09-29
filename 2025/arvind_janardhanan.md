@@ -21,7 +21,7 @@ My leadership philosophy is rooted in empowerment, mentorship, and inclusive col
 
 I understand the challenges of implementing security frameworks in complex environments—where legacy systems, tight deadlines, and competing priorities are the norm. I bring to OWASP a pragmatic, enterprise-tested perspective on what it takes to make security guidance not just technically sound, but truly adoptable at scale.
 
-I envision OWASP as a catalyst for transformation—where our collective wisdom, tools, and frameworks don’t just document best practices, but actively enable organizations to implement them. I see my board service as a way to extend measurable impact beyond enterprise boundaries and into the open source community, helping OWASP evolve to meet tomorrow’s challenges.
+I envision OWASP as a catalyst for transformation—an organization whose collective wisdom, tools, and frameworks not only define best practices, but also empower organizations to implement them effectively. I see my board service as a way to help extend OWASP’s impact beyond enterprise boundaries and into the broader open source community, contributing to its continued evolution to meet tomorrow’s security challenges.
 
 If elected, I will bring a collaborative leadership style focused on building bridges—between innovation and implementation, between enterprise lessons and community needs, and between where we are today and where application security must go next.
 <br>
