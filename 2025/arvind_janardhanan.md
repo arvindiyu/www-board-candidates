@@ -34,22 +34,21 @@ If elected, I will bring a collaborative leadership style focused on building br
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 <br>
 <br>
-While my primary contributions have been within enterprise environments rather than traditional open source projects, I bring a unique perspective that OWASP critically needs: scaling security practices across large, complex organizations with real-world constraints and business pressures. Throughout my 15-year career, I've been a consistent adopter and advocate of OWASP resources, applying open source principles to create measurable enterprise impact.
+While my primary contributions have been within enterprise environments rather than traditional open source projects, I bring a unique perspective that OWASP critically needs: scaling security practices across large, complex organizations with real-world constraints and business pressures. Throughout my career, I've been a consistent adopter and advocate of OWASP resources, applying open source principles to create measurable enterprise impact.
 
-Key examples within enterprise environments include:
+**Enterprise-Driven Contributions**
+- Operationalized OWASP Guidance: Architected security toolchains across SAST, SCA, MAST, IaC, DAST, secrets detection, and API security—using OWASP resources as foundational guidance.
+- Enterprise AppSec Platforms: Built platforms that embed OWASP recommendations into developer workflows, creating real-world implementation patterns and validation data.
+- Applied Research at Scale: 15+ years of testing OWASP methodologies under enterprise constraints—tight timelines, legacy systems, and budget limitations.
+- Security Metrics Frameworks: Developed models to measure AppSec program effectiveness and maturity.
+- DevSecOps Integration: Pioneered integration patterns that demonstrate successful OWASP framework adoption in CI/CD pipelines.
+- Framework Scaling: Extensively implemented OWASP Top 10, SAMM, and ASVS across multiple organizations, adapting them for enterprise-wide adoption.
 
-- Architected comprehensive security toolchains spanning SAST, SCA, MAST, IaC, DAST, secrets detection, and API security—consistently using OWASP resources as foundational guidance
-- Developed enterprise AppSec platforms that operationalize OWASP recommendations, creating real-world implementation patterns and validation data
-- 15+ years of applied research testing OWASP methodologies at enterprise scale with real-world constraints, budget pressures, and timeline limitations
-- Developed security metrics frameworks for measuring program effectiveness 
-- Pioneered DevSecOps integration patterns that demonstrated many successful OWASP framework operationalization
-- Extensively implemented OWASP frameworks across multiple enterprise environments, scaling Top 10 guidance, SAMM methodology, and security verification standards for large-scale development organizations
-
-My eagerness to serve on the OWASP board represents an opportunity to give back to the community that has shaped my entire career. Rather than traditional code contributions, I bring battle-tested insights from consistently implementing OWASP resources across diverse enterprise environments—understanding what works, what needs refinement, and how to make our frameworks more adoptable for organizations worldwide.
+This is how I’ve come to understand visible leadership — through the secure-by-default systems, scalable programs, and empowered teams that have grown from applying OWASP guidance in real-world environments. My eagerness to serve on the OWASP board represents an opportunity to give back to the community that has shaped my entire career. Rather than traditional code contributions, I bring battle-tested insights from consistently implementing OWASP resources across diverse enterprise environments—understanding what works, what needs refinement, and how to make our frameworks more adoptable for organizations worldwide.
 
 <br>
 <br>
-In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership that i would target would be,
+If elected, I will focus on transparency, engagement, and innovation. Here’s what I will plan to deliver in the First 90 Days,
 
 ##### Outcome 1: Complete Project Portfolio Health Assessment & Public Transparency Dashboard
 **Deliverable:** Launch a comprehensive, automated health assessment system covering all 398 OWASP projects across 16 security domains with real-time public visibility [Additional details outlined in Question no 3].
@@ -61,7 +60,7 @@ In the First 90 Days,the Three Measurable Outcomes for OWASP Board Leadership th
 
 ---
 
-##### Outcome 2: Direct Leadership Engagement & Accountability Framework
+##### Outcome 2: Direct Leadership Engagement & Succession Framework
 **Deliverable:** Establish direct communication with 150+ project leaders across all 16 security domains with documented response rates and succession planning.
 **Specific Actions:**
 - Personal outreach to every project leader with standardized health assessment questionnaire (14-day response deadline)
