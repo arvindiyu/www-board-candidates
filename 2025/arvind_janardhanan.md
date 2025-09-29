@@ -47,7 +47,6 @@ While my primary contributions have been within enterprise environments rather t
 This is how I’ve come to understand visible leadership — through the secure-by-default systems, scalable programs, and empowered teams that have grown from applying OWASP guidance in real-world environments. My eagerness to serve on the OWASP board represents an opportunity to give back to the community that has shaped my entire career. Rather than traditional code contributions, I bring battle-tested insights from consistently implementing OWASP resources across diverse enterprise environments—understanding what works, what needs refinement, and how to make our frameworks more adoptable for organizations worldwide.
 
 <br>
-<br>
 If elected, I will focus on transparency, engagement, and innovation. Here’s what I will plan to deliver in the First 90 Days,
 
 ##### Outcome 1: Complete Project Portfolio Health Assessment & Public Transparency Dashboard
@@ -58,8 +57,6 @@ If elected, I will focus on transparency, engagement, and innovation. Here’s w
 - Create public dashboard at `health.owasp.org` showing real-time project health scores and maintenance status
 **Verification Method:** Community can access live dashboard showing project health scores, GitHub API integration proof, and downloadable quarterly health reports. All methodology and criteria will be published on GitHub with community feedback integration.
 
----
-
 ##### Outcome 2: Direct Leadership Engagement & Succession Framework
 **Deliverable:** Establish direct communication with 150+ project leaders across all 16 security domains with documented response rates and succession planning.
 **Specific Actions:**
@@ -67,8 +64,6 @@ If elected, I will focus on transparency, engagement, and innovation. Here’s w
 - Implement escalation protocol: Email → Slack → LinkedIn → Community nomination process
 - Document leadership gaps and create succession planning framework for unresponsive projects
 **Verification Method:** Public monthly reports showing response rates by domain, leadership engagement metrics, and anonymized communication logs. Community can track progress through published spreadsheets and domain-specific leadership directories.
-
----
 
 ##### Outcome 3: Strategic Domain Focus Groups & Innovation Pipeline Launch
 **Deliverable:** Establish active focus groups for all 16 security domains with identified community leaders and launch innovation charter process for emerging security needs.
@@ -78,7 +73,6 @@ If elected, I will focus on transparency, engagement, and innovation. Here’s w
 - Create innovation pipeline framework for emerging needs: Quantum Security, Web3, Zero-Trust Architecture projects
 **Verification Method:** Public calendar showing all 16 domain monthly meetings, published meeting minutes with attendance tracking, and community voting platform for innovation project prioritization. Domain leaders will be publicly listed with contact information and success metrics.
 
----
 ##### Measurement & Accountability
 **Progress Tracking:**
 - **Weekly Updates:** Published every Friday on OWASP blog with specific metrics
@@ -245,7 +239,18 @@ My focus will be to navigate OWASP toward a healthier, more focused project port
 #### What kind of support will you provide for Arab countries in regard to trending legislation in security, privacy and data protection, for software, OT, and cloud? Will you plan for specific events to cover the growth of talents and skills in secure coding in this particular region?
 <br>
 <br>
-While I lack direct expertise in Arab region cybersecurity legislation, my research reveals significant opportunities. The region faces severe talent shortages and rapid regulatory changes across software, OT, and cloud domains. Countries like Saudi Arabia, UAE, and Jordan are implementing comprehensive data protection laws while struggling with 18,000+ cybersecurity role gaps. I see this as OWASP's chance to establish Arabic resources, partner with existing chapters (Dubai, Cairo, Riyadh, Morocco), support the Arab Cybersecurity Strategy, and create targeted secure coding training programs that bridge regulatory compliance with practical skills development.
+While I am not an expert in the legislative landscape of the Arab region, but to answer this question meaningfully, I’ve taken time to understand the unique challenges and opportunities emerging across countries like Saudi Arabia, the UAE, Jordan, and others. These nations are rapidly advancing their cybersecurity and data protection frameworks, yet face significant talent shortages— some estimates cite over 18,000 unfilled cybersecurity roles across the region.
+
+That said, I view OWASP as a globally inclusive, region- and politics-agnostic organization—one that thrives on collaboration across borders and backgrounds. At the same time, I recognize that geopolitical dynamics can influence how open source communities operate and evolve. While I may not be an expert in this area, I’m committed to learning and engaging thoughtfully. If this becomes a focus area for the Board, I’m eager to contribute by helping OWASP navigate these complexities and strengthen its global influence in a way that remains true to its mission and values.
+
+In that spirit, I see an opportunity for OWASP to:
+
+- Expand Arabic-language resources and secure coding materials
+- Partner with existing chapters in Dubai, Cairo, Riyadh, and Morocco to amplify local impact
+- Support the Arab Cybersecurity Strategy through targeted initiatives like launching secure coding training programs that align with both regulatory compliance and practical development needs
+
+By focusing on talent development, localized content, and regional partnerships, OWASP can play a pivotal role in shaping the next generation of security professionals in the Arab world— while also building a scalable model that can be adapted to other regions. This approach reinforces OWASP’s commitment to openness, inclusivity, and global neutrality.
+
 <br>
 <br>
 
