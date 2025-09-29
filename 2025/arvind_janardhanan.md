@@ -7,7 +7,7 @@ layout: col-generic
 ---
 
 #### About Me
-![Image](#)
+<img style="float: left; margin-right: 1em; margin-bottom: 1em; " src="../assets/images/Arvind_Janardhanan.jpg" width="300" height="300" alt="Arvind Janardhanan">
 <br>
 <br>
 Hi there, I’m Arvind Janardhanan—a seasoned cybersecurity leader with over 15 years of experience in enterprise security, specializing in secure software development, DevSecOps, and enterprise security architecture. Throughout my career, I’ve had the privilege of architecting security solutions at scale—solutions built with a security-first mindset that empower development teams to innovate confidently and securely.
